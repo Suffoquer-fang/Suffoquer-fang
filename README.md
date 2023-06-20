@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Yan Fang.
 
 <!--
 **Suffoquer-fang/Suffoquer-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Suffoquer-fang">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=Suffoquer-fang&show_icons=true&include_all_commits=true" />
-</a>
+- 😀 I’m a second-year master student at [Tsinghua IR Group](http://www.thuir.cn/).
+- 🏆 My research lies in Dense Retrieval and Large Language Models. I am also interested in Deep Reinforcement Learning.
+- 📫 Contact me via fangy21@mails.tsinghua.edu.cn
 
 <a href="https://github.com/Suffoquer-fang">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=Suffoquer-fang&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suffoquer-fang&show_icons=true&include_all_commits=true" />
 </a>
+
