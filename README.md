@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😀 I’m a second-year master student at [Tsinghua IR Group](http://www.thuir.cn/).
+- 😀 I’m a third-year master student at [Tsinghua IR Group](http://www.thuir.cn/).
 - 🏆 My research lies in Dense Retrieval and Large Language Models. I am also interested in Deep Reinforcement Learning.
 - 📫 Contact me via fangy21@mails.tsinghua.edu.cn
 
